@@ -1,0 +1,6 @@
+﻿  Laivu musis.cpp
+C:\Users\vygan\OneDrive - Vilniaus Gedimino technikos universitetas\kursinis\Laivu musis\Laivu musis\Laivu musis.cpp(30,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vygan\OneDrive - Vilniaus Gedimino technikos universitetas\kursinis\Laivu musis\Laivu musis\Laivu musis.cpp(31,19): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\vygan\OneDrive - Vilniaus Gedimino technikos universitetas\kursinis\Laivu musis\Laivu musis\Laivu musis.cpp(37,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vygan\OneDrive - Vilniaus Gedimino technikos universitetas\kursinis\Laivu musis\Laivu musis\Laivu musis.cpp(38,19): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Laivu musis.vcxproj -> C:\Users\vygan\OneDrive - Vilniaus Gedimino technikos universitetas\kursinis\Laivu musis\Debug\Laivu musis.exe
